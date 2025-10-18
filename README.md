@@ -35,7 +35,7 @@ cd HNG13_Stage0/
 npm install
 ```
 
-| The dependancies used in this task are: `dotenv`,`express`and `cors` |
+| The dependancies used in this task are: `dotenv`, `express` and `cors` |
 
 4. Configure environment variables
 
