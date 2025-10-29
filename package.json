@@ -9,9 +9,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Matilda Njau",
   "license": "ISC",
-  "description": "",
+  "description": "A Dynamic Profile Endpoint",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^17.2.3",
